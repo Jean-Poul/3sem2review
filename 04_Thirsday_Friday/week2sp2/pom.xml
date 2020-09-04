@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dk.jplm</groupId>
-    <artifactId>week2sp2</artifactId>
+    <artifactId>Home</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>week2sp2</name>
+    <name>Home</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
