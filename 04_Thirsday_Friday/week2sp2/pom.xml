@@ -4,9 +4,8 @@
 
     <groupId>dk.jplm</groupId>
     <artifactId>Home</artifactId>
-    <version>1.0</version>
     <packaging>war</packaging>
-
+    <version>1.0</version>
     <name>Home</name>
 
     <properties>
