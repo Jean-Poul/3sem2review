@@ -24,5 +24,5 @@ https://github.com/Jean-Poul/3sem2review/tree/master/03_Wednesday
 https://github.com/Jean-Poul/3sem2review/tree/master/04_Thirsday_Friday/week2sp2
 (View source code)
 
-https://www.jplm.dk/Home-1.0/  
+https://www.jplm.dk/index/
 (Working site with HTTPs)
